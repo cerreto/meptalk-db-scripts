@@ -7,8 +7,8 @@ INSERT INTO schools(id, name, speeches) VALUES
 (6, "Corni", 0),
 (7, "Fanti", 0),
 (8, "Luosi", 0),
-(9, "Muratori-San Carlo", 0),
-(10, "Meucci", 0),
+(9, "Meucci", 0),
+(10, "Muratori-San Carlo", 0),
 (11, "Roiti", 0),
 (12, "Selmi", 0),
 (13, "Tassoni", 0);
